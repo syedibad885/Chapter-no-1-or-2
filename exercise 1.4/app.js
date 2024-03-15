@@ -1,0 +1,1 @@
+let = prompt("what is your name", "WELCOME, Username")
